@@ -1,0 +1,5 @@
+﻿  Function.cpp
+C:\Users\ASUS\source\repos\TicTac-Game\TicTac-Game\Function.cpp(42,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TicTac-Game.cpp
+  Generating Code...
+  TicTac-Game.vcxproj -> C:\Users\ASUS\source\repos\TicTac-Game\x64\Debug\TicTac-Game.exe
